@@ -1,0 +1,7 @@
+C:\Users\maxim\source\repos\CommandParser\CommandParser\bin\Debug\CommandParser.exe.config
+C:\Users\maxim\source\repos\CommandParser\CommandParser\bin\Debug\CommandParser.exe
+C:\Users\maxim\source\repos\CommandParser\CommandParser\bin\Debug\CommandParser.pdb
+C:\Users\maxim\source\repos\CommandParser\CommandParser\obj\Debug\CommandParser.csprojAssemblyReference.cache
+C:\Users\maxim\source\repos\CommandParser\CommandParser\obj\Debug\CommandParser.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\CommandParser\CommandParser\obj\Debug\CommandParser.exe
+C:\Users\maxim\source\repos\CommandParser\CommandParser\obj\Debug\CommandParser.pdb
